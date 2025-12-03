@@ -80,8 +80,6 @@ My focus goes beyond configuration; I specialize in secure infrastructure design
 
 ### 📊 GitHub Stats
 
-*(Estas imagens aparecerão automaticamente assim que você começar a usar o GitHub!)*
-
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigo91octaviano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" alt="Rodrigo Stats" height="150" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo91octaviano&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="150" />
