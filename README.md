@@ -66,22 +66,21 @@ My focus goes beyond configuration; I specialize in secure infrastructure design
 
 ---
 
-### 📺 Latest FairyWall Videos
+### 📺 FairyWall on YouTube
 
 *Building a community focused on teaching Firewall concepts clearly and practically.*
 
-<a href="https://www.youtube.com/@FairyWall">
-  <img align="left" alt="FairyWall YouTube" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigo91octaviano&repo=rodrigo91octaviano&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/> 
+<a href="https://www.youtube.com/@FairyWall" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/512px-YouTube_Logo_2017.svg.png" alt="FairyWall YouTube" width="200px" />
 </a>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
 ---
 
 ### 📊 GitHub Stats
+
+*(Estas imagens aparecerão automaticamente assim que você começar a usar o GitHub!)*
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigo91octaviano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" alt="Rodrigo Stats" height="150" />
