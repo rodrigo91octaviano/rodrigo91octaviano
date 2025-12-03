@@ -2,7 +2,7 @@
 
 **`Senior Network & Security Engineer | Firewall Specialist`**
 
-Hello! I'm Rodrigo, a Network & Security Specialist with over 10 years of experience securing critical enterprise infrastructures. I currently work as a **Technical Account Manager at NTT Data**, focusing on secure topologies, firewall migrations, and hardening (ISO 27001 / PCI DSS).
+Hello! I'm Rodrigo, a Network & Security Specialist with over 12 years of experience securing critical enterprise infrastructures. I currently work as a **Technical Account Manager**, focusing on secure topologies, firewall migrations, and hardening (ISO 27001 / PCI DSS).
 
 Beyond engineering, I create technical content at **FairyWall**, teaching Firewall and Network concepts.
 
